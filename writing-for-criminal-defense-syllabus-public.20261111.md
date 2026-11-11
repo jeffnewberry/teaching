@@ -1,6 +1,7 @@
 # Writing for Criminal Defense
 
 **A one-semester law school writing course built on a real case**
+
 Jeff Newberry
 
 > **About this syllabus.** This is a public version of the syllabus for a writing course I teach. I have removed the school-specific material, the calendar dates, and every detail that would identify the case or the people in it. Other teachers are welcome to borrow from it and adapt it.
